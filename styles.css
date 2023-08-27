@@ -1,0 +1,46 @@
+body{
+
+background-image: URL('https://wallpaperboat.com/wp-content/uploads/2019/10/website-background-texture-12.jpg');
+  
+}
+
+h1{
+  
+  background-color: rgba(250, 235, 215, 0.539);
+  text-align: center;
+}
+
+p{
+  font-size: x-large;
+  text-align: center;
+  background-color: rgba(251, 255, 0, 0.247);
+    transition: background-color 1s ease-in-out;
+}
+p:hover {
+  background-color: rgb(255, 230, 0);
+}
+
+p2{
+  font-size: x-large;
+  text-align: center;
+  background-color: rgba(251, 255, 0, 0.247);
+    transition: background-color 1s ease-in-out;
+}
+p2:hover {
+  background-color: rgb(255, 230, 0);
+}
+
+h2{
+  text-align: center;
+}
+
+a{
+  font-size: 32px;
+  background-color: rgba(251, 255, 0, 0);
+  transition: background-color 1.5s ease-in-out;
+  border-style: dashed;
+}
+a:hover {
+background-color: rgb(198, 198, 198);
+
+}
